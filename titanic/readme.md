@@ -14,7 +14,7 @@
 
 ### Content 
 
-**1. Introduction of 'Machine learning Processe' [link]()**<br/><br/>
+**1. Introduction of 'Machine learning Processe and checking data' [link]()**<br/><br/>
 **2. EDA on train data [link]()**<br/><br/>
 **3. Feature engineering [link]()**<br/><br/>
 **4. Feature selection [link]()**<br/><br/>
