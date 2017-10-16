@@ -3,6 +3,15 @@
 * Written by JEONGWOO JIN
 * Pub Date : 2017.10.16
 
+**Env**
+* Anaconda python 3.5.x
+* Mac OSX
+* Lib_list : 
+1. Data manipulation : pandas, numpy
+2. Visualization : matplotlib, seaboarn, plotly, plotly::dash
+3. modeling: sklearn, xgboost, lightGBM, catboost,
+4. Hyper parameter tuning : sklearn, bayesian-optimization
+
 ### Content 
 
 **1. Introduction of 'Machine learning Processe' [link]()**<br/><br/>
