@@ -1,25 +1,20 @@
 **Kaggle**
-# Titanic competition for practicing Stacking Ensemble technique
-* Written by JEONGWOO JIN
-* Pub Date : 2017.10.16
+# 캐글(Kaggle) 로 시작하고 연습하는 데이터분석
+## 타이타닉 경연 ver
+**작성자 : 진 정 우**
 
-**Env**
-* Anaconda python 3.5.x
-* Mac OSX
-* Lib_list : 
-1. Data manipulation : pandas, numpy
-2. Visualization : matplotlib, seaboarn, plotly, plotly::dash
-3. modeling: sklearn, xgboost, lightGBM, catboost,
-4. Hyper parameter tuning : sklearn, bayesian-optimization
+[1. 문제정의 및 데이터 다운로드]()<br>
+[2. 데이터로드 및 체크]()<br>
+[3. 탐색적 데이터분석(EDA) 1회차]()<br>
+[4. 베이스 모델링 및 평가]()<br>
+[5. 탐색적 데이터분석 2회차]()<br>
+[6. 기계학습 모델링]()<br>
+[7. 교차검증 및 모델 최적화]()<br>
+[8. 추가학습2_결과 향상: 앙상블 테크닉]()<br>
+[9. 추가학습3_결과 향상: 인코딩]()<br>
+[10. 보충1_왜 캐글에서 많이 사용될까?]()<br>
 
-### Content 
-
-**1. Introduction of 'Machine learning Processe and checking data' [link]()**<br/><br/>
-**2. EDA on train data [link]()**<br/><br/>
-**3. Feature engineering [link]()**<br/><br/>
-**4. Feature selection [link]()**<br/><br/>
-**5. Base modeling and evaluating among all models [link]()**<br/><br/>
-**6. Using Stacking ensemble technique [link]()**<br/><br/>
-**7. Conclusion and report [link]()**<br/><br/>
+### 사용 데이터
+[캐글 타이타닉 경연 홈페이지](www.kaggle.com/c/titanic/data)
 
 ### Reference
